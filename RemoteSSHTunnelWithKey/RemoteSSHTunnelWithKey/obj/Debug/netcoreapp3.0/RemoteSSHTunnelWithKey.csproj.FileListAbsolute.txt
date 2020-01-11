@@ -1,0 +1,15 @@
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.exe
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\obj\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.csprojAssemblyReference.cache
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\obj\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.AssemblyInfoInputs.cache
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\obj\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.AssemblyInfo.cs
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.deps.json
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.runtimeconfig.json
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.runtimeconfig.dev.json
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.dll
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.pdb
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\obj\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.csproj.CopyComplete
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\obj\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.dll
+C:\Users\rob.osborne\source\repos\RemoteSSHTunnelWithKey\RemoteSSHTunnelWithKey\obj\Debug\netcoreapp3.0\RemoteSSHTunnelWithKey.pdb

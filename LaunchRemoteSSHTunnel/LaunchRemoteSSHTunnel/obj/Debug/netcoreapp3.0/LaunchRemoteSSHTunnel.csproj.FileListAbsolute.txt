@@ -1,0 +1,15 @@
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.exe
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\obj\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.csprojAssemblyReference.cache
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\obj\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.AssemblyInfoInputs.cache
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\obj\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.AssemblyInfo.cs
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.deps.json
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.runtimeconfig.json
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.runtimeconfig.dev.json
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.dll
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.pdb
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\obj\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.csproj.CopyComplete
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\obj\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.dll
+C:\Users\rob.osborne\source\repos\LaunchRemoteSSHTunnel\LaunchRemoteSSHTunnel\obj\Debug\netcoreapp3.0\LaunchRemoteSSHTunnel.pdb

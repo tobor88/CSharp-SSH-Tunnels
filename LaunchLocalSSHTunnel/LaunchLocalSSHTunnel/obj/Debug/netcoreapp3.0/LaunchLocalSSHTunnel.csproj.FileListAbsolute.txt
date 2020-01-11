@@ -1,0 +1,15 @@
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.exe
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\obj\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.csprojAssemblyReference.cache
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\obj\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.AssemblyInfoInputs.cache
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\obj\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.AssemblyInfo.cs
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.deps.json
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.runtimeconfig.json
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.runtimeconfig.dev.json
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.dll
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.pdb
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\obj\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.csproj.CopyComplete
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\obj\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.dll
+C:\Users\rob.osborne\source\repos\LaunchLocalSSHTunnel\LaunchLocalSSHTunnel\obj\Debug\netcoreapp3.0\LaunchLocalSSHTunnel.pdb
