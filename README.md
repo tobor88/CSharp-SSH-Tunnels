@@ -21,7 +21,7 @@ ssh -R <Listen-port>:localhost:<R_service_port> <user>@<server_hostname>.com -p 
 
 - __RemoteSSHTunnelWithKey__ (Requires access on the remote server and requires the sshd_config value 'GatewayPorts yes')
 ```
-ssh -R <Listen-port>:localhost:<R_service_port> <user>@<server_hostname>.com -p 22
+ssh -R <Listen-port>:localhost:<R_service_port> <user>@<server_hostname>.com -i $env:USERPROFILE/.ssh/id_rsa -p 22
 ```
 
 To show what the execution of LaunchRemoteSSHTunnel looks like I have included the below image.
