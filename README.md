@@ -1,11 +1,8 @@
 # CSharp-SSH-Tunnels
-C# Applications that can be run to easily open local or remote SSH Tunnels
 
-Here are a some SSH tunnels that are interactive with simple prompts for creating local and remote SSH tunnels.
+C# Applications that can be run to easily open local or remote SSH Tunnels. Great application if you need to allow an every day user or contractor the ability to create a tunnel in order to access a resource. I don't think this happens often but I made it to better learn C# tool making.
 
-I see these as being beneficial to someone who has to look up how to make an SSH tunnel every time they need one.
-
-OpenSSH Translations are below.
+Here are a some SSH tunnels that are interactive with simple prompts for creating local and remote SSH tunnels. This could also be beneficial to someone who needs to look up how to make an SSH tunnel every time they need one. The OpenSSH Translations are below.
 
 - __LaunchLocalSSHTunnel__ (Executed on a local machine trying to access a remote resource)
 ```
